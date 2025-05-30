@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'jogos',
+    'qual o melhor jogo da atualidade?',
+    'melhores e mais populares, como "PUBG: Battlegrounds", "Fortnite", "Roblox", "Minecraft" e "Genshin Impact", entre outros. '
 )
